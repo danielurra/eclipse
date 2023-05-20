@@ -3,7 +3,7 @@
 Eclipse is an integrated development environment (IDE) that combines a code editor, compiler, debugger, text editor and a graphical user interface (GUI) builder.
 ## How to debug
 A very useful technique to figure out logic problems is known as debugging. You remove the bugs in the code using debugging.</br>
-Eclipse allow us to insert Code breakpoints that allow us to quickly focus on the code that concerns you.</br>
+Eclipse allow us to insert **Code breakpoints** that allow us to quickly focus on the code that concerns you.</br>
 You set a breakpoint and run the program until it reaches that point.</br>
 Stopping at each iteration of the loop allow us to inspect the value of variables at that given time.</br>
 To use the debugger in Eclipse, navigate to the Run | Debug As menu, or simply press F11:</br>
