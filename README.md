@@ -30,7 +30,8 @@ The **Date** class is packed into a particular package.</br>
 ```java
 import java.util.Date
 ```
-We have to import that package to be able to use the Date class</br>
+Here **util** is the package, and **Date** is a class.</br>
+We have to import that package to be able to use the **Date** class.</br>
 **d** is the object that contains the date and time, we need to convert it into readable text for printing purposes.</br>
 ![eclipse-print-date](https://github.com/danielurra/eclipse/assets/51704179/bb7c649e-bd29-46be-b85f-efb559b024d9)</br>
 
