@@ -32,6 +32,12 @@ import java.util.Date
 ```
 Here **util** is the package, and **Date** is a class.</br>
 We have to import that package to be able to use the **Date** class.</br>
+We have to use the methods present in that particular class.</br>
+To use the methods present in that class, we need to create an object of that particular class.</br>
+See code below:
+```java
+Date d= new Date();
+```
 **d** is the object that contains the date and time, we need to convert it into readable text for printing purposes.</br>
 ![eclipse-print-date](https://github.com/danielurra/eclipse/assets/51704179/bb7c649e-bd29-46be-b85f-efb559b024d9)</br>
 
