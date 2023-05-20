@@ -26,7 +26,7 @@ public class ClassForLoopDanny {
 }
 ```
 ## Print current date
-The **Date** class is packed into that particular package.</br>
+The **Date** class is packed into a particular package.</br>
 ```java
 import java.util.Date
 ```
