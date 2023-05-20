@@ -39,7 +39,9 @@ See code below:
 Date d= new Date();
 ```
 **d** is the object that contains the date and time, we need to convert it into readable text for printing purposes.</br>
-
+```java
+System.out.println(d.toString());
+```
 ![eclipse-print-date](https://github.com/danielurra/eclipse/assets/51704179/bb7c649e-bd29-46be-b85f-efb559b024d9)</br>
 
 ## Grab the code
