@@ -25,3 +25,21 @@ public class ClassForLoopDanny {
 	}
 }
 ```
+## Print current date
+![eclipse-print-date](https://github.com/danielurra/eclipse/assets/51704179/bb7c649e-bd29-46be-b85f-efb559b024d9)
+## Grab the code
+```java
+package pkg_date_danny;
+
+import java.util.Date;
+
+public class ClassDateDanny {
+
+	public static void main(String[] args) {
+		Date d = new Date();
+		System.out.println(d.toString());
+
+	}
+
+}
+```
