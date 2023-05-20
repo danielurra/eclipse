@@ -27,11 +27,11 @@ public class ClassForLoopDanny {
 ```
 ## Print current date
 The **Date** class is packed into a particular package.</br>
+It is required to import that package to be able to use the **Date** class.</br>
 ```java
 import java.util.Date
 ```
 Here **util** is the package, and **Date** is the class.</br>
-We have to import that package to be able to use the **Date** class.</br>
 We have to use the methods present in that particular class.</br>
 To use the methods present in that class, we need to create an object of that particular class.</br>
 See code below:
