@@ -44,8 +44,6 @@ System.out.println(d.toString());
 ```
 ![to-string](https://github.com/danielurra/eclipse/assets/51704179/34036efb-884f-468e-8a06-ec79e84ea9a3)
 
-![eclipse-print-date](https://github.com/danielurra/eclipse/assets/51704179/bb7c649e-bd29-46be-b85f-efb559b024d9)</br>
-
 ## Grab the code
 ```java
 package pkg_date_danny;
@@ -62,3 +60,4 @@ public class ClassDateDanny {
 
 }
 ```
+![eclipse-print-date](https://github.com/danielurra/eclipse/assets/51704179/bb7c649e-bd29-46be-b85f-efb559b024d9)</br>
