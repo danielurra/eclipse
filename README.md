@@ -64,8 +64,41 @@ public class ClassDateDanny {
 ## Constructor
 **Step 1 of 2** - Create a class for all the rabbits</br>
 ![1 conejo-class](https://github.com/danielurra/eclipse/assets/51704179/2f48f184-6a77-4683-ab04-b95f1f8dcb02)</br>
+```java
+package pkg_conejo;
+
+public class Conejo_class {
+	String saludo;
+//constructor - special method that allow us to initialize values when creating the object
+//constructor - same name as the class
+//constructor - doesn't return anything, not even void
+
+	public Conejo_class(String Passedsaludo) {
+		this.saludo = Passedsaludo;
+	}
+
+	public void sayHello() {
+		System.out.println(this.saludo);
+	}
+}
+```
 **Step 2 of 2** - Create one particular bunny whose greeting is a well known one</br>
-![2 create-new-object-and-call-method](https://github.com/danielurra/eclipse/assets/51704179/7d8920d6-3145-4038-b26f-0005dca20577)
+![2 create-new-object-and-call-method](https://github.com/danielurra/eclipse/assets/51704179/7d8920d6-3145-4038-b26f-0005dca20577)</br>
+```java
+package pkg_conejo;
+
+public class Executable_class_has_main_mthd_run_calls {
+
+	public static void main(String[] args) {
+//      create a new object of class conejo, type new and Ctrl Space bar
+//		type name = new type();
+		Conejo_class BugsBunny = new Conejo_class("Que hay de nuevo viejo!!!");
+//		 call the method para saludar, usar period, dot, punto
+		BugsBunny.sayHello();
+	}
+
+}
+```
 
 
 
