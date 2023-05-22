@@ -61,3 +61,7 @@ public class ClassDateDanny {
 }
 ```
 ![eclipse-print-date](https://github.com/danielurra/eclipse/assets/51704179/bb7c649e-bd29-46be-b85f-efb559b024d9)</br>
+## Constructor
+![1 conejo-class](https://github.com/danielurra/eclipse/assets/51704179/2f48f184-6a77-4683-ab04-b95f1f8dcb02)
+
+![2 create-new-object-and-call-method](https://github.com/danielurra/eclipse/assets/51704179/05d3a054-ec12-4736-ac8f-75e531a09ebb)
