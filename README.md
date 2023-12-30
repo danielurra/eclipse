@@ -62,7 +62,7 @@ public class ClassDateDanny {
 ```
 ![eclipse-print-date](https://github.com/danielurra/eclipse/assets/51704179/bb7c649e-bd29-46be-b85f-efb559b024d9)</br>
 ## Constructor
-**Step 1 of 2** - Create a class for all the rabbits</br>
+### Step 1 of 2 - Create a class for all the rabbits</br>
 ![1 conejo-class](https://github.com/danielurra/eclipse/assets/51704179/2f48f184-6a77-4683-ab04-b95f1f8dcb02)</br>
 ```java
 package pkg_conejo;
